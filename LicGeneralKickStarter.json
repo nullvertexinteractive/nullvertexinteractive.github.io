@@ -4,7 +4,7 @@
     {
       "NameUser": "----",
       "Email": "Master",
-      "TypeLicence": "KickstarterIsActive",
+      "TypeLicence": "KickstarterIsNotActive",
       "TypeSubscription": "Advanced"
     }  
     ]
